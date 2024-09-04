@@ -18,3 +18,17 @@ npx ai-digest -i /home/renanfranca/projects/jhipster-lite --ignore-file /home/re
 ```
 
 # Prompts to generate custom AI Instructions
+
+## With Claude
+
+### jhipster-lite frontend
+
+Can you write me a good custom instructions prompt for development of this Vue, Typescript application?
+Always write all the source files out in full and use Claude Artifacts.
+
+## With ChatGPT
+
+### jhipster-lite frontend
+
+Can you write me a good custom instructions prompt for development of this Vue, Typescript application?
+Always write all the source files out in full and use ChatGPT file search tools instead of code interpreter tools.
