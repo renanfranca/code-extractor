@@ -1,0 +1,12 @@
+.devcontainer
+.github
+.husky
+.idea
+.mvn
+.tikui-cache
+LICENSE.txt
+mvnw
+mvnw.cmd
+tests-ci
+
+src/main/resources/generator
