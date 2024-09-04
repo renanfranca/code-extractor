@@ -9,5 +9,15 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "application-service-hexagonal-architecture-documentation",
+    "date" : "2024-09-04T18:22:13.445320879Z",
+    "properties" : {
+      "packageName" : "io.github.renanfranca.code.extractor",
+      "projectName" : "Code Extractor Application",
+      "baseName" : "codeExtractorApplication",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
