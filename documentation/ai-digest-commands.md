@@ -16,3 +16,5 @@ npx ai-digest -i /home/renanfranca/projects/jhipster-lite -o /home/renanfranca/p
 ```bash
 npx ai-digest -i /home/renanfranca/projects/jhipster-lite --ignore-file /home/renanfranca/projects/code-extractor/src/main/resources/aidigest/.aidigestignore-jhlite-backend --show-output-files
 ```
+
+# Prompts to generate custom AI Instructions
