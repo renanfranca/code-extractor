@@ -1,6 +1,7 @@
 # ai-digest
 
 A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.
+Github repository: https://github.com/khromov/ai-digest
 
 ## Features
 
