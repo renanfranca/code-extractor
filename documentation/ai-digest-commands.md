@@ -42,3 +42,9 @@ Always write all the source files out in full and use Claude Artifacts.
 
 Can you write me a good custom instructions prompt for development of this Vue, Typescript application?
 Always write all the source files out in full and use ChatGPT file search tools instead of code interpreter tools.
+
+### renanfranca.github.io
+
+Start from here you always read this blog-posts.txt file before answer.
+And you will write like I write and try the best to use the words I used.
+if you find some grammar mistakes feel free to correct it. Do you understand?
