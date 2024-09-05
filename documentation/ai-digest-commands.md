@@ -15,7 +15,9 @@ cp /home/renanfranca/projects/code-extractor/target/aidigest/jhlite-frontend/cod
 ### Backend
 
 ```bash
-npx ai-digest -i /home/renanfranca/projects/jhipster-lite --ignore-file /home/renanfranca/projects/code-extractor/src/main/resources/aidigest/.aidigestignore-jhlite-backend --show-output-files
+cp /home/renanfranca/projects/code-extractor/src/main/resources/aidigest/.aidigestignore-jhlite-backend /home/renanfranca/projects/jhipster-lite/target/.aidigestignore-jhlite-backend
+npx ai-digest -i /home/renanfranca/projects/jhipster-lite -o /home/renanfranca/projects/code-extractor/target/aidigest/jhlite-backend/codebase-jhlite-backend.md --ignore-file target/.aidigestignore-jhlite-backend --show-output-files --whitespace-removal
+cp /home/renanfranca/projects/code-extractor/target/aidigest/jhlite-backend/codebase-jhlite-backend.md /home/renanfranca/projects/code-extractor/target/aidigest/jhlite-backend/codebase-jhlite-backend.txt
 ```
 
 ## Generate AI Digest for renanfranca.github.io

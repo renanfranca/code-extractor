@@ -9,6 +9,7 @@ LICENSE.txt
 mvnw
 mvnw.cmd
 tests-ci
+package-lock.json
 
 src/main/java
 src/main/resources
@@ -25,6 +26,9 @@ renovate.json
 release.sh
 pom.xml
 Dockerfile
+eslint.config.js
+app.yaml
+checkstyle.xml
 .stylelintrc.json
 .stylelintignore
 .prettierrc
@@ -35,7 +39,6 @@ Dockerfile
 .gitattributes
 .editorconfig
 .dockerignore
-.aidigestignore
 README.md
 NOTICE
 CONTRIBUTING.md
